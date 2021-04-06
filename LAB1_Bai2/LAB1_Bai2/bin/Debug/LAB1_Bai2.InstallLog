@@ -1,0 +1,273 @@
+﻿Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe assembly.
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe
+Installing service Lab1Bai2...
+Service Lab1Bai2 has been successfully installed.
+Creating EventLog source Lab1Bai2 in log Application...
+Committing assembly 'D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.InstallLog
+   assemblypath = D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab1\LAB1_Bai2\LAB1_Bai2\bin\Debug\LAB1_Bai2.exe

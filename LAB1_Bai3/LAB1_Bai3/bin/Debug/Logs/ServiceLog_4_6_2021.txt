@@ -1,0 +1,62 @@
+**************Start get status*******
+Service is started at 4/6/2021 10:59:33 AM
+Trạng thái internet lúc 4/6/2021 10:59:33 AM là 200
+Bắt đầu tạo ReverseShell lúc: 4/6/2021 10:59:33 AM
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+ls
+C:\Windows\system32>ls
+ipconfig
+Lỗi trong quá trình gửi
+
+Kết nối TCP bị lỗi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Lỗi trong quá trình gửi
+Service is started at 4/6/2021 11:03:37 AM
+Trạng thái internet lúc 4/6/2021 11:03:38 AM là 200
+Bắt đầu tạo ReverseShell lúc: 4/6/2021 11:03:38 AM
+Kết nối TCP bị lỗi
+Service is started at 4/6/2021 11:03:42 AM
+Trạng thái internet lúc 4/6/2021 11:03:42 AM là 200
+Bắt đầu tạo ReverseShell lúc: 4/6/2021 11:03:42 AM
+Kết nối TCP bị lỗi
+Service is started at 4/6/2021 11:03:47 AM
+Trạng thái internet lúc 4/6/2021 11:03:47 AM là 200
+Bắt đầu tạo ReverseShell lúc: 4/6/2021 11:03:47 AM
+**************End*******
